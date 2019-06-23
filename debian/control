@@ -1,0 +1,12 @@
+Source: lemon
+Section: python
+Priority: optional
+Maintainer: nguyencuong, <nguyencuong382@gmail.com>
+Build-Depends: debhelper (>= 7),
+Standards-Version: 1.0
+
+Package: lemon
+Architecture: all
+Section: python
+Depends: python, ${misc:Depends}, ${python:Depends}
+Description: Support tools for GNU/Linux users

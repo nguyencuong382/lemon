@@ -1,0 +1,11 @@
+Package: mymood
+Version: 1.0
+Architecture: all
+Maintainer: druuu, <druuu@gmail.com>
+Installed-Size: 26
+Depends: python (<< 2.8), python (>= 2.7), python-numpy, python:any (>= 2.6.6-7~)
+Section: python
+Priority: optional
+Description: simple mood checker
+ mymood is a simple mood checker.
+ It analyze the mood by simple questions.

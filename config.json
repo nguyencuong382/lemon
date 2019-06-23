@@ -1,0 +1,7 @@
+{
+    "srcs": [
+        "/home/nc/.ssh"
+    ],
+    "dest": "/home/nc/Dropbox",
+    "type": "default"
+}
